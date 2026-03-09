@@ -1,4 +1,4 @@
-# [WebGIS Final Project]
+# WebGIS Final Project
  
 ## Description
 This web map shows [describe what geographic features or data your map displays].
