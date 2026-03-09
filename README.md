@@ -1,7 +1,7 @@
 # WebGIS Final Project
  
 ## Description
-This web map shows [describe what geographic features or data your map displays].
+This web map shows maps of three locations.
 It was built using Leaflet.js as part of GIS 5220/420 Lab 6.
  
 ## Data Source
@@ -10,8 +10,8 @@ OpenStreetMap, USGS, your own collected data].
  
 ## Features
 - Interactive basemap with zoom and pan
-- [Describe your data layer, e.g., GeoJSON point markers for US cities]
-- [Describe interactivity, e.g., Clickable popups showing city name and population]
+- GeoJSON point markers for US cities
+- Clickable popups showing city name and population
 - Scale bar showing metric and imperial units
  
 ## Technologies Used
